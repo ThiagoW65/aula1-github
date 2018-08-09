@@ -14,6 +14,8 @@ public class Program {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in); 
 		
+		System.out.println("bom dia");
+		
 		System.out.print("\nEnter account number: ");
 		int acn = sc.nextInt();
 		sc.nextLine();
